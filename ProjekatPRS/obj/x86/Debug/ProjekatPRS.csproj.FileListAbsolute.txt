@@ -1,0 +1,34 @@
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Form1.resources
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Properties.Resources.resources
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.csproj.GenerateResource.Cache
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.exe
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.pdb
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.exe
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.pdb
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Form2.resources
+C:\Users\sbs\Desktop\prevodioci\rekspustinsert\spust\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Restart.resources
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.exe
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.pdb
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.csprojResolveAssemblyReference.cache
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Form1.resources
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Form2.resources
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Properties.Resources.resources
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Restart.resources
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.csproj.GenerateResource.Cache
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.exe
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.pdb
+C:\Users\sbs\Desktop\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.exe.config
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.exe.config
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.exe
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.pdb
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.exe
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.pdb
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.csprojResolveAssemblyReference.cache
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Form1.resources
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Form2.resources
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Properties.Resources.resources
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.Restart.resources
+C:\Users\sbs\Desktop\New folder (3)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.csproj.GenerateResource.Cache
+C:\Users\sbs\Desktop\New folder (6)\ProjekatPRS\ProjekatPRS\bin\Debug\ProjekatPRS.exe.config
+C:\Users\sbs\Desktop\New folder (6)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.exe
+C:\Users\sbs\Desktop\New folder (6)\ProjekatPRS\ProjekatPRS\obj\x86\Debug\ProjekatPRS.pdb
